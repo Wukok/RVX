@@ -1,2 +1,2 @@
 # RVX
-Releases
+Phát hành
